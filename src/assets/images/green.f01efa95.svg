@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="140" viewBox="0 0 140 140">
+  <g id="Group_1560" data-name="Group 1560" transform="translate(-8593 405)">
+    <rect id="Rectangle_1485" data-name="Rectangle 1485" width="140" height="140" transform="translate(8593 -405)" fill="none"/>
+    <g id="Group_1557" data-name="Group 1557" transform="translate(8462.218 -129.594)">
+      <g id="Group_1487" data-name="Group 1487" transform="translate(132.449 -255.608)">
+        <rect id="Rectangle_1372" data-name="Rectangle 1372" width="13.821" height="24.763" transform="translate(53.226 84.643)" fill="#00aaa3" stroke="#00297e" stroke-width="1"/>
+        <rect id="Rectangle_1373" data-name="Rectangle 1373" width="13.821" height="24.763" transform="translate(78.937 84.643)" fill="#00aaa3" stroke="#00297e" stroke-width="1"/>
+        <ellipse id="Ellipse_225" data-name="Ellipse 225" cx="25.239" cy="7.923" rx="25.239" ry="7.923" transform="translate(88.777 35.708) rotate(-45.022)" fill="#00aaa3" stroke="#00297e" stroke-width="1"/>
+        <ellipse id="Ellipse_226" data-name="Ellipse 226" cx="7.923" cy="25.239" rx="7.923" ry="25.239" transform="translate(0 14.374) rotate(-44.978)" fill="#00aaa3" stroke="#00297e" stroke-width="1"/>
+        <ellipse id="Ellipse_222" data-name="Ellipse 222" cx="45.495" cy="45.495" rx="45.495" ry="45.495" transform="translate(25.812 3.443)" fill="#00aaa3" stroke="#00297e" stroke-width="1"/>
+        <ellipse id="Ellipse_223" data-name="Ellipse 223" cx="11.518" cy="4.319" rx="11.518" ry="4.319" transform="translate(52.924 105.376)" fill="#00aaa3" stroke="#00297e" stroke-width="1"/>
+        <ellipse id="Ellipse_224" data-name="Ellipse 224" cx="11.518" cy="4.319" rx="11.518" ry="4.319" transform="translate(78.489 104.799)" fill="#00aaa3" stroke="#00297e" stroke-width="1"/>
+        <ellipse id="Ellipse_227" data-name="Ellipse 227" cx="8.732" cy="8.732" rx="8.732" ry="8.732" transform="translate(45.697 29.445)" fill="#fff" stroke="#00297e" stroke-width="1"/>
+        <ellipse id="Ellipse_230" data-name="Ellipse 230" cx="8.732" cy="8.732" rx="8.732" ry="8.732" transform="translate(82.788 29.445)" fill="#fff" stroke="#00297e" stroke-width="1"/>
+      </g>
+      <path id="Path_1226" data-name="Path 1226" d="M473.5,616.122c0,4.455,11.47,13.252,24.2,13.252s24.662-12.542,24.662-17-11.934.864-24.662.864S473.5,611.667,473.5,616.122Z" transform="translate(-291.084 -804.441)" fill="#00297e"/>
+      <path id="Path_1227" data-name="Path 1227" d="M.63,12.667C4.606,3.5,22.159-1.9,39.835.617S68.617,12.6,64.64,21.766s-17.169,9.2-34.845,6.685S-3.347,21.835.63,12.667Z" transform="translate(170.417 -259.297) rotate(-8)" fill="#00297e"/>
+      <text id="_" data-name="$" transform="translate(186.703 -213.935)" fill="#00297e" font-size="15" font-family="MuseoSans-900, 'Museo Sans \39 00'" font-weight="900"><tspan x="-4.44" y="0">$</tspan></text>
+      <text id="_2" data-name="$" transform="translate(223.466 -213.935)" fill="#00297e" font-size="15" font-family="MuseoSans-900, 'Museo Sans \39 00'" font-weight="900"><tspan x="-4.44" y="0">$</tspan></text>
+    </g>
+  </g>
+</svg>

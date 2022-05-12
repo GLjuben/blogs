@@ -1,0 +1,16 @@
+.news_title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.h1_gray {
+  font-size: 42px;
+  letter-spacing: 0.34px;
+  padding-top: 32px;
+  padding-bottom: 44px;
+  color: #707070;
+}
+.span_blue {
+  color: #2189d1;
+}
